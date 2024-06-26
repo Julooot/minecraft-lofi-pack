@@ -5,6 +5,8 @@
     <img src="https://img.youtube.com/vi/jAS-GKmQ_5o/sddefault.jpg" alt="Video Thumbnail"  />
   </a>
 
+## NOTICE
+The music is very loud (sowwy <3), so if you want to enjoy it in the best conditions put the music slider between 1 and 5%
 
 ## How to setup
 - Open Minecraft and navigate to “Options” then “Resource Packs”.
